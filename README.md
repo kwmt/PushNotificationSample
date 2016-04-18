@@ -1,6 +1,6 @@
 ## Android Push通知サンプルです。
 
-プッシュ通知に必要なapp/google-services.jsonはコミットに含めてません。
+プッシュ通知に必要な `app/debug/`,`app/release/` には `google-services.json` をコミットに含めてません。
 
 こちらから作成してください。
 
